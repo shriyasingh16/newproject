@@ -1,0 +1,3 @@
+module shri {
+	exports shri;
+}
